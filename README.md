@@ -28,9 +28,7 @@ User Interaction
 The app updates in real-time as users interact with it—adding, editing, and completing tasks immediately reflects in the task list. The UI remains responsive and clean across different screen sizes due to Tailwind CSS styling.
 
 This app showcases a modern, functional task management system built with React and Tailwind CSS, incorporating essential CRUD operations, real-time state updates, and a user-friendly, visually appealing interface.
-
-
-
+<img width="298" alt="Todolist" src="https://github.com/user-attachments/assets/b9c9bf77-bc4a-4144-b8aa-8ec9732cd4bf">
 
 
 
